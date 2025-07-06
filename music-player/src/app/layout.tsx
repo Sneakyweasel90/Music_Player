@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Enhanced Music Player",
-  description: "A beautiful music player with playlist support",
+  title: "Music Player",
+  description: "Music Player for my portfolio",
 };
 
 export default function RootLayout({

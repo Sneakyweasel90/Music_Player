@@ -7,7 +7,7 @@ export default function Home() {
         <Player />
       </main>
       <footer className="text-center text-gray-500 text-sm p-4">
-        Created by Neil Mannion with TypeScript and React
+        Created by Neil Mannion with TypeScript, React and TailWind
       </footer>
     </div>
   );
