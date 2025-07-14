@@ -7,7 +7,8 @@ export default function Home() {
         <Player />
       </main>
       <footer className="text-center text-gray-500 text-sm p-4">
-        Created by Neil Mannion with TypeScript, Next.js and TailWind
+        Created by Neil Mannion with TypeScript, Next.js and TailWind <td/>
+        <a href='https://github.com/Sneakyweasel90/Music_Player'>---Link to Github Repository---</a>
       </footer>
     </div>
   );
